@@ -1,4 +1,4 @@
-# This is my Tribute Page Project
+# This is my Tribute Page Project (PLAIN CSS)
 I follow curriculum of freeCodeCamp.<br>
 This is one of the projects that I have completed in order to get Responsive Web Design Certification.
 ## Kobe Bryant
