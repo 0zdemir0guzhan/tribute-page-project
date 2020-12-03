@@ -37,11 +37,15 @@ section {
 }
 
 #image {
-  width: 750px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
   border: 10px solid #552583;
   border-radius: 5px;
   outline: 2px dashed #fdb927;
   outline-offset: -8px;
+  max-width: 750px;
 }
 
 #img-caption {
@@ -63,7 +67,11 @@ section {
 }
 
 #ytbvideo {
-  width: 750px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  max-width: 750px;
   border: 10px solid #552583;
   border-radius: 5px;
   outline: 2px dashed #fdb927;
